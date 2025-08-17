@@ -5,7 +5,6 @@ import gestures as gs
 import drawing as dw
 
 cap=cv2.VideoCapture(0)
-
 colors = [
   ((255,0,0),"Blue"),
   ((0,255,0),"Green"),
