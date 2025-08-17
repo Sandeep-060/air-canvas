@@ -81,7 +81,7 @@ python main.py
 
 ---
 
-## 🎮 How to use
+## How to use
 
 - A color **palette bar** appears at the **top** of the window.
 - **Draw**: Show only your **index** finger; move to draw.
