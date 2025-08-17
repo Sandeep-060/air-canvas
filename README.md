@@ -36,7 +36,7 @@ Add a short demo GIF or image here (optional but great for LinkedIn/README):
 ```
 ```
 ![Air Canvas demo](/demo/aircanvas_layout.png)
-![Air Canvas demo](/demo/drawing_1.png)
+![Air Canvas demo](/demo/savedimg.png)
 
 ---
 
